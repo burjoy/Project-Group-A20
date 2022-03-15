@@ -1,0 +1,46 @@
+@media all and (max-with: 1000px){
+  .main-content {
+    text-align: center;
+  }
+  .banner {
+    font-size: 0;
+  }
+  .menu-icon {
+    display: block;
+  }
+  .gb-link {
+    display: none;
+    float: right;
+  }
+}
+
+@media all and (max-width: 670px){
+  .menu-icon {
+    display: block;
+  }
+  .gb-link {
+    display: none;
+    float: right;
+  }
+  .gb-brand {
+    display: none;
+  }
+  .banner {
+    display: none;
+  }
+  .deskripsi1 {
+    text-align: left;
+  }
+  body {
+    width: 100%
+  }
+  .content {
+    text-align: center;
+  }
+  .text {
+    font-size: 13px;
+  }
+  .btn-join {
+    text-align: center;
+  }
+}
