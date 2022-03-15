@@ -75,7 +75,7 @@ body {
   }
   
   .banner {
-    margin-top: -250px;
+    margin-top: -240px;
     margin-left: -50px;
     float: right;
   }
@@ -83,7 +83,7 @@ body {
   .text h1 {
     font-family: "Quicksand", sans-serif;
     font-size: 35px;
-    color: white;
+    color: bisque;
     font-weight: 500 !important;
   }
   
